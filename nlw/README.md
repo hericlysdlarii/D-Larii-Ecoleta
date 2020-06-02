@@ -1,5 +1,6 @@
 <h3 align="center">
-  🚀 Next Level Week
+  🚀 Next Level Week |
+  <a href="https://rocketseat.com.br" target="_blank">
 </h3>
 
 <h3 align="center">
