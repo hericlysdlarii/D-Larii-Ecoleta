@@ -5,7 +5,7 @@
 <h3 align="center">
     <b>Ecoleta</b>
     <br><br>
-    ![Alt text](https://github.com/hericlysdlarii/D-Larii-Ecoleta/blob/master/nlw/assets/index.png?raw=true "Optional Title")
+    <img alt="Logo" title="#logo" src=".github/logo.png">
     <br><br> 
 </h3>
 
