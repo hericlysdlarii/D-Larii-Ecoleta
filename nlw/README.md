@@ -6,17 +6,9 @@
 </h3>
 
 <h3 align="center">
-    <b>Ecoleta</b>
-    <br><br>
     <img alt="Imagem da página Principal" title="#logo" src="https://github.com/hericlysdlarii/D-Larii-Ecoleta/blob/master/nlw/assets/index.png">
     <br><br> 
 </h3>
-
-<p align="center">
-  <a href="https://rocketseat.com.br" target="_blank">
-    Rocketseat
-  </a>
-</p>
 
 ## :bookmark: Sobre
 
