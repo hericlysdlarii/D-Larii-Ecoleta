@@ -5,7 +5,7 @@
 <h3 align="center">
     <b>Ecoleta</b>
     <br><br>
-    <img alt="Logo" title="#logo" src=".github/logo.png">
+    <img alt="Logo" title="#logo" src=".github/index.png">
     <br><br> 
 </h3>
 
