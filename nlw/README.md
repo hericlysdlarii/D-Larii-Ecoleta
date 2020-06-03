@@ -1,19 +1,14 @@
 <h3 align="center">
-  🚀 Next Level Week
-</h3>
-
-<h3 align="center">
-    <b>Ecoleta</b>
-    <br><br>
-    <img alt="Logo" title="#logo" src=".github/index.png">
-    <br><br> 
-</h3>
-
-<p align="center">
+  🚀 Next Level Week |
   <a href="https://rocketseat.com.br" target="_blank">
     Rocketseat
   </a>
-</p>
+</h3>
+
+<h3 align="center">
+    <img alt="Imagem da página Principal" title="#logo" src="https://github.com/hericlysdlarii/D-Larii-Ecoleta/blob/master/nlw/assets/index.png">
+    <br><br> 
+</h3>
 
 ## :bookmark: Sobre
 
