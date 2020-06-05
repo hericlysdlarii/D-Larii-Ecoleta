@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-    <img alt="Imagem da página Principal" title="#logo" src="https://github.com/hericlysdlarii/D-Larii-Ecoleta/blob/master/nlw/assets/index.png">
+    <img alt="Imagem da página Principal" title="#logo" src="https://github.com/hericlysdlarii/D-Larii-Ecoleta/blob/master/public/assets/index.png">
     <br><br> 
 </h3>
 
