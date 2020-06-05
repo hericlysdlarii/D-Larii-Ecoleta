@@ -10,6 +10,18 @@
     <br><br> 
 </h3>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Javascript](https://www.javascript.com/)
+- [SQL](https://www.mysql.com/)
+- [Expo](https://expo.io/)
+
+- Libs
+  - [Express](https://expressjs.com/pt-br/)
+
 ## :bookmark: Sobre
 
 O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
